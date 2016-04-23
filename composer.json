@@ -21,15 +21,15 @@
 	],
 
 	"require": {
-		"composer/installers": "v1.0.7",
-		"php": ">=5.5.12",
+		"composer/installers": "v1.0.1",
+		"php": "5.5.*",
 	},
 
 
 
 	"extra":{
 		"installer-paths":{
-			"wp-content/plugins/{$name}/": ["type:wordpress-plugin"],
+			"wp-content/plugins/{$name}/": ["type:wordpress-plugin"]
 		}
 	}
 }
