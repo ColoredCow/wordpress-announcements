@@ -1,11 +1,10 @@
 {
-	"name": "wordpress-announcements",
+	"name": "coloredcow/wordpress-announcements",
 	"description": "Announcements plugin for wordpress site.",
 	"type": "wordpress-plugin",
 	"version": "1.0.0",
 	"keywords":["wordpress","plugin","announcements","coloredcow"],
 	"homepage": "http://coloredcow.in",
-
 	"repositories":[
 		{
 			"type": "zip",
@@ -19,14 +18,10 @@
 			"homepage": "http://coloredcow.in"
 		}
 	],
-
 	"require": {
 		"composer/installers": "v1.0.1",
 		"php": "5.5.*"
 	},
-
-
-
 	"extra":{
 		"installer-paths":{
 			"wp-content/plugins/{$name}/": ["type:wordpress-plugin"]
