@@ -5,6 +5,7 @@
 	"version": "1.0.0",
 	"keywords":["wordpress","plugin","announcements","coloredcow"],
 	"homepage": "http://coloredcow.in",
+	"license":"GPL-3.0+",
 	"repositories":[
 		{
 			"type": "zip",
@@ -20,7 +21,7 @@
 	],
 	"require": {
 		"composer/installers": "v1.0.1",
-		"php": "5.5.*"
+		"php": ">=5.5.12"
 	},
 	"extra":{
 		"installer-paths":{
