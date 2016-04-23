@@ -8,8 +8,8 @@
 	"license":"GPL-3.0+",
 	"repositories":[
 		{
-			"type": "zip",
-			"url": "https://github.com/coloredcow/wordpress-announcements.zip"
+			"type": "git",
+			"url": "https://github.com/coloredcow/wordpress-announcements.git"
 		}
 	],
 	"authors":[
