@@ -1,5 +1,5 @@
 {
-	"name": "coloredcow/wordpress-announcements",
+	"name": "wordpress-announcements",
 	"description": "Announcements plugin for wordpress site.",
 	"type": "wordpress-plugin",
 	"version": "1.0.0",
@@ -8,11 +8,17 @@
 
 	"repositories":[
 		{
-			"type": "git",
-			"url": "https://github.com/coloredcow/wordpress-announcements.git"
+			"type": "zip",
+			"url": "https://github.com/coloredcow/wordpress-announcements.zip"
 		}
 	],
-
+	"authors":[
+		{
+			"name": "Vaibhav Rathore",
+			"email": "vaibhavsinghrathore2011@gmail.com",
+			"homepage": "http://coloredcow.in"
+		}
+	],
 
 	"require": {
 		"composer/installers": "v1.0.7",
