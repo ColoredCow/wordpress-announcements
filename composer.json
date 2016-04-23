@@ -2,7 +2,7 @@
 	"name": "coloredcow/wordpress-announcements",
 	"description": "Announcements plugin for wordpress site.",
 	"type": "wordpress-plugin",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"keywords":["wordpress","plugin","announcements","coloredcow"],
 	"homepage": "http://coloredcow.in",
 	"license":"GPL-3.0+",

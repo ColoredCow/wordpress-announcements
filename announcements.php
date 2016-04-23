@@ -2,9 +2,9 @@
 
 /*
 Plugin Name: Announcements
-Plugin URI: http://rathorevaibhav.wordpress.com
+Plugin URI: http://coloredcow.in
 Description: An announcements plugin.
-Version: 1.0
+Version: 1.0.4
 Author: Vaibhav Rathore
 Author URI: http://rathorevaibhav.wordpress.com
 */
